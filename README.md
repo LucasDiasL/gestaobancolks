@@ -1,5 +1,7 @@
 # Bancolks
 
+para acessar: http://localhost:8080/gestaobancolks/m/SignIn
+
 Este projeto é um exemplo de aplicação Java utilizando Hibernate e JPA para gerenciar entidades de um banco.
 
 ## Estrutura do Projeto
